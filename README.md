@@ -1,0 +1,2 @@
+# newgit
+my first repository
