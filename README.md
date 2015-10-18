@@ -1,2 +1,2 @@
 # newgit
-my first repository
+here are the codes of my c programming
